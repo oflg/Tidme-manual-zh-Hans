@@ -1,9 +1,9 @@
 [
     {
         "created": "20220112042204478",
-        "text": "`<<S>>`宏内有两个参数 `option` `answer` 。\n\n*  `option`表示选项，一行表示一个选项。\n*  `answer`表示答案，可以使用字母 A-I 或数字 1-9，多选时写多个数字或字母。",
+        "text" :"`<<S>>` La macro `option` `réponse` comporte deux paramètres. \N- `option` indique une option, une ligne indique une option. \N- \N- `réponse` indique une réponse, soit les lettres A-I ou les chiffres 1-9, et plusieurs chiffres ou lettres sont écrits pour des choix multiples." ,
         "creator": "oflg",
-        "title": "选择题示例和说明",
+        "title": "Exemples de choix multiples et instructions",
         "modified": "20230920135522988",
         "modifier": "oflg",
         "tags": "?",

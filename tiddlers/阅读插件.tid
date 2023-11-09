@@ -1,9 +1,9 @@
 created: 20230921092042049
 modified: 20231009095918973
-tags: ? 相关插件 .
-title: 阅读插件
+tags: ? Plugins associés .
+title: Lire le plugin
 type: text/vnd.tiddlywiki
 
-渐进阅读插件。
+Plugin de lecture progressive.
 
-可在学习卡片时选中文本，进行单词标注或句子摘录。
+Permet de sélectionner un texte pour l'étiquetage des mots ou des extraits de phrases pendant l'étude des cartes.

@@ -11,42 +11,43 @@ scheduled_days: 29
 stability: 29.040138112550505
 state: 2
 tags: ?
-title: 墨屉手册
+title: Manuel du boudoir
 type: text/vnd.tiddlywiki
 
-[[欢迎]]
+[[Bienvenue]]
 
 <<<
-{{欢迎}}
+{{Bienvenue}}
 <<<
 
-[[安装]]
+[[Installation]]
 
 <<<
-{{安装}}
+{{Installation}}
 <<<
 
-[[使用]]
+[[Utilisation]]
 
 <<<
-{{使用}}
+{{utilisation}}
 <<<
 
-* [[相关插件]]
+* [[Plugins apparentés]]
 
-* [[有哪些快捷键？]]
+* [[Quels sont les raccourcis ?]]
 
-* [[如何使用问答和填空题？]]
+* [[Comment utiliser les quiz et les questions à compléter ?]]
 
-* [[如何反转显示问题和答案？]]
+* [[Comment inverser l'affichage des questions et des réponses ?]]
 
-* [[如何排序牌组？]]
+* [[Comment trier un jeu de cartes ?]]
 
-* [[高级技巧]]
+* [[Conseils avancés]]
 
-* [[反馈]]
-
-
+* [[Feedback]]
 
 
-<<.tip "以上为[[墨屉]]特有功能使用方法，其他基础功能同[[TiddlyWiki]]。">>
+
+
+<<.tip "Ce qui précède explique comment utiliser les fonctions spécifiques du [[Boudoir]], les autres fonctions de base sont les mêmes que celles de [[TiddlyWiki]]." >>
+

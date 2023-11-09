@@ -16,13 +16,13 @@ scheduled_days: 2
 stability: 0.6
 state: 2
 tags: ?
-title: 填空题示例和说明
+title: Exemples et instructions à compléter
 type: text/vnd.tiddlywiki
 
-`<<C>>`宏内有三个参数 `hide` `show` `id`，后两个参数可以省略。
+Il y a trois arguments dans la macro `<<C>>` `hide` `show` `id`, les deux derniers peuvent être omis.
 
-* `hide`表示挖空的内容。
+* `hide` indique le contenu de l'abri.
 
-* `show`表示挖空后展示出的文字，默认是`...`。
+* `show` indique le texte qui est affiché après le gouge, qui est par défaut `... `.
 
-* `hide`表示被挖空的id，相同id的空会在被点击时同时显示和隐藏。
+* `hide` indique l'id du vide, les vides avec le même id seront affichés et cachés en même temps quand on clique dessus.

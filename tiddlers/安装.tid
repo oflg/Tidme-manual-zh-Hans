@@ -1,6 +1,6 @@
 created: 20131129092604900
 delivery: Saver
-description: 有点笨拙但几乎每个浏览器都通用的技术
+description: Une technique quelque peu maladroite mais commune à presque tous les navigateurs
 difficulty: 5.869999999999999
 due: 20231014053801397
 elapsed_days: 7.109954594907407
@@ -16,12 +16,12 @@ tags: ?
 title: 安装
 type: text/vnd.tiddlywiki
 
-# 点击下载墨屉：
+# Cliquez pour télécharger le Boudoir :
 #> {{$:/editions/download-empty-button}}
-# 点击刚才下载的墨屉文件，在浏览器中打开
-# 打开后，点击侧边栏的<<.icon $:/core/images/new-button>>''添加''按钮，尝试创建新条目。为此条目输入一些内容，然后点击<<.icon $:/core/images/done-button>>''确定''按钮
-# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮保存你的更改
-# ''你的浏览器将下载一份更新后的墨屉''
-# 下次使用时，可以浏览器中打开最新的墨屉或其他版本备份
+# Cliquez sur le fichier du boudoir que vous venez de télécharger et ouvrez-le dans votre navigateur.
+# Une fois ouvert, essayez de créer une nouvelle entrée en cliquant sur le bouton <<.icon $:/core/images/new-button>> ''Ajouter'' dans la barre latérale. Entrez quelque chose pour cette entrée et cliquez sur le bouton <<.icon $:/core/images/done-button>> ''OK''
+# Enregistrez vos modifications en cliquant sur le bouton <<.icon $:/core/images/save-button>> ''Enregistrer les modifications'' dans la barre latérale.
+# ''Votre navigateur va télécharger une copie du boudoir mis à jour''.
+# La prochaine fois que vous l'utiliserez, vous pourrez ouvrir le dernier boudoir ou une autre version de sauvegarde dans votre navigateur.
 
-''提示'': 大部分的浏览器会有可设置的''每次都问我要下载到何处''的选项，这允许你选择已存在的墨屉文件并取代覆写之。
+''Astuce'' : La plupart des navigateurs ont une option configurable ''Me demander où je veux télécharger à chaque fois'', qui vous permet de sélectionner un fichier existant du boudoir et de l'écraser à la place.

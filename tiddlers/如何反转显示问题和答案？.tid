@@ -9,8 +9,8 @@ reps: 3
 scheduled_days: 1
 stability: 0.6
 state: 2
-tags: 高级技巧 ?
-title: 如何反转显示问题和答案？
+tags: Conseils avancés ?
+title: Comment inverser l'affichage des questions et des réponses ?
 type: text/vnd.tiddlywiki
 
-给条目加上`reverse`字段即可。
+Il suffit d'ajouter le champ `reverse` à l'entrée.

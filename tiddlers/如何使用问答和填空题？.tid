@@ -14,17 +14,17 @@ review: 20220419125315807
 scheduled_days: 41
 stability: 41.47572592456828
 state: 2
-tags: 高级技巧 ?
-title: 如何使用问答和填空题？
+tags: Conseils avancés ?
+title: Comment utiliser les quiz et les questions à compléter ?
 type: text/vnd.tiddlywiki
 
-给卡片添加`caption`字段，此字段的内容即为卡片正面。
+Ajouter un champ `caption` à la carte, le contenu de ce champ est le recto de la carte.
 
-| 题型 | `caption`字段内容编写说明 |>| 按钮产生的宏 | 示例和说明 |h
-|~|~| 名称 | 结构 |~|h
-| 问答题 | - | - | -  | [[问答题示例和说明]] |
-| 打字题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/type>> 按钮插入编辑器 | T | `<<T field>>` |  [[打字题示例和说明]] |
-| 填空题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> 按钮将所选文本设置为''挖空'' | C | `<<C hide show id>>`  | [[填空题示例和说明]] |
-| 选择题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> 按钮将所选文白设置为''选项'' + 填入答案''序号'' | S | `<<S option answer>>` |  [[选择题示例和说明]] |
+| Questions | Instructions pour écrire le contenu du champ `caption` |>| Macros générées par les boutons | Exemples et instructions |h
+| Nom | Structure |~||h
+| Exemples et instructions de questions de quiz | - | - | | [[Exemples et instructions de questions de quiz]] |
+| Insérer dans l'éditeur avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/type>> sur la barre de l'éditeur | T | `<T champ>>` | [[Exemples de questions dactylographiques et instructions]] | Remplir les espaces vides.
+| C | `<C hide show id>>` | [[Exemples de questions à trous et instructions]]] | avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> dans la barre de l'éditeur
+| sélectionner | écrire le texte + utiliser le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> sur la barre d'édition pour mettre le texte sélectionné en ''option'' + remplir la réponse ''numéro de série'' | S | ``<S option answer>>` | [[Exemples et explications de questions à choix multiple]] |
 
-可以根据需要手动编写自己的宏，或在[[讨论|https://github.com/oflg/Tidme/discussions]]中获取和分享宏。
+Vous pouvez écrire vos propres macros manuellement si nécessaire, ou obtenir et partager des macros dans [[Discussion|https://github.com/oflg/Tidme/discussions]].

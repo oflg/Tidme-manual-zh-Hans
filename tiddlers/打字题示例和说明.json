@@ -1,14 +1,13 @@
 [
     {
         "created": "20231006031700350",
-        "text": "`<<T>>`宏内有一个参数 `field`，可以省略。\n\n* `field`表示要打字校对的字段，默认为 `text`。",
-        "title": "打字题示例和说明",
+        "text" : "La macro ``<T>>`` contient un paramètre ``field`` qui peut être omis. \`field` indique le champ à taper pour la relecture, qui est par défaut `text`." ,        "title": "Exemples de questions et d'instructions dactylographiées",
         "creator": "oflg",
         "modified": "20231008080332335",
         "modifier": "oflg",
         "tags": "?",
         "type": "text/vnd.tiddlywiki",
-        "caption": "打字题怎么用？\n<<T text>>",
+        "caption": "Comment fonctionnent les questions dactylographiées ?\n<<T text>>",
         "difficulty": "5.869999999999999",
         "due": "20231008075724899",
         "elapsed_days": "1.2068986458333333",

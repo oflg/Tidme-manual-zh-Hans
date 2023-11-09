@@ -5,9 +5,9 @@ type: text/vnd.tiddlywiki
 
 \define lingo-base() $:/language/ControlPanel/Basics/
 
-{{欢迎}}
+{{bienvenue}}
 
-!! 设置此 ~TiddlyWiki
+!! Réglage ~TiddlyWiki
 
 <div class="tc-control-panel">
 
@@ -17,4 +17,4 @@ type: text/vnd.tiddlywiki
 |^ <$link to="$:/DefaultTiddlers"><<lingo DefaultTiddlers/Prompt>></$link><br><<lingo DefaultTiddlers/TopHint>>|<$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br>//<<lingo DefaultTiddlers/BottomHint>>// |
 </div>
 
-可在[[控制台|$:/ControlPanel]]查看更多选项。
+D'autres options sont disponibles dans [[Console|$:/ControlPanel]].

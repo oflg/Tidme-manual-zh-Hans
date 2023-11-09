@@ -9,10 +9,9 @@ reps: 5
 scheduled_days: 1
 stability: 0.6
 state: 2
-tags: 如何自定义牌组？ ?
-title: 创建牌组
+tags: Comment personnaliser le pont ? ?
+title: Créer une terrasse
 type: text/vnd.tiddlywiki
+* Modifier {{$:/language/tidme/cardfilter}} dans ''<<.icon $:/core/images/options-button>}{$:/language/tidme/options}}'' pour personnaliser les cartes incluses dans le jeu.
 
-* 在 ''<<.icon $:/core/images/options-button>>{{$:/language/tidme/options}}'' 中修改{{$:/language/tidme/cardfilter}}来自定义牌组包含的卡片。
-
-* 在 ''<<.icon $:/core/images/advanced-search-button>>{{$:/language/tidme/exportdelete}}'' 中查看牌组包含的卡片、导出或删除牌组。
+* Voir les cartes contenues dans le jeu, exporter ou supprimer le jeu dans ''<<.icon $:/core/images/advanced-search-button>>{$:/language/tidme/exportdelete}}''.

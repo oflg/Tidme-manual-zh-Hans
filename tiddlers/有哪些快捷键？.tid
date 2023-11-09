@@ -1,7 +1,7 @@
 created: 20230920134245120
 modified: 20230920141954612
-tags: ? 高级技巧
-title: 有哪些快捷键？
+tags: ? Conseils avancés
+title: Quels sont les raccourcis disponibles ?
 type: text/vnd.tiddlywiki
 
 \import $:/core/ui/ControlPanel/KeyboardShortcuts
@@ -15,5 +15,4 @@ type: text/vnd.tiddlywiki
 </tbody>
 </table>
 
-可以在[[设置|$:/ControlPanel]]的''快捷键''选项中自定义快捷键，防止快捷键冲突。
-
+Les raccourcis peuvent être personnalisés dans l'option ''Raccourcis'' de [[Settings|$:/ControlPanel]] pour éviter les conflits de raccourcis.

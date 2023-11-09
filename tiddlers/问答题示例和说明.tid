@@ -12,9 +12,9 @@ scheduled_days: 0
 stability: 0.6
 state: 1
 tags: ? !
-title: 问答题示例和说明
+title: Exemples de questions, de réponses et d'explications
 type: text/vnd.tiddlywiki
 
-* 标题`title`为问题。
+* Le titre `title` est la question.
 
-* 内容`text`为答案。
+* Le contenu `text` est la réponse.

@@ -1,6 +1,6 @@
 {
-    "description": "Tidme Manual zh-Hans",
-	"plugins": [
+    "description": "Tidme Manuel fr-FR",
+    "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/powered-by-tiddlywiki",
@@ -14,10 +14,10 @@
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],
-	"languages": [
-		"zh-Hans"
-	],
-	"build": {},
+    "languages": [
+        "zh-Hans"
+    ],
+    "build": {},
     "config": {
         "retain-original-tiddler-path": true
     }

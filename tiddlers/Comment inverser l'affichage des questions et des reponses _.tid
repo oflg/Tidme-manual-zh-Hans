@@ -9,7 +9,7 @@ reps: 3
 scheduled_days: 1
 stability: 0.6
 state: 2
-tags: Conseils avancés ?
+tags: [[Conseils avancés]] ?
 title: Comment inverser l'affichage des questions et des réponses ?
 type: text/vnd.tiddlywiki
 

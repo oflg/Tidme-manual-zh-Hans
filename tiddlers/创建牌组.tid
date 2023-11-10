@@ -1,3 +1,4 @@
+* Modifier {{$: /language/tidme/cardfilter}} dans ''<<.icon $:/core/images/options-button>}{$:/language/tidme/options}}'' pour personnaliser les cartes incluses dans le jeu.
 created: 20230921003741334
 difficulty: 5.869999999999999
 due: 20231008104120524
@@ -9,9 +10,8 @@ reps: 5
 scheduled_days: 1
 stability: 0.6
 state: 2
-tags: Comment personnaliser le pont ? ?
+tags: Comment personnaliser le pont ?
 title: Créer une terrasse
 type: text/vnd.tiddlywiki
-* Modifier {{$:/language/tidme/cardfilter}} dans ''<<.icon $:/core/images/options-button>}{$:/language/tidme/options}}'' pour personnaliser les cartes incluses dans le jeu.
 
-* Voir les cartes contenues dans le jeu, exporter ou supprimer le jeu dans ''<<.icon $:/core/images/advanced-search-button>>{$:/language/tidme/exportdelete}}''.
+* Voir les cartes contenues dans le jeu, exporter ou supprimer le jeu dans ''<<.icon $:/core/images/advanced-search-button>>{{$:/language/tidme/exportdelete}}''.

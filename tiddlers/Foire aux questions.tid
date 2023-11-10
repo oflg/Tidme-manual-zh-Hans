@@ -2,7 +2,7 @@ created: 20211111055619592
 difficulty: 3.9899999999999998
 due: 20231012025943191
 elapsed_days: 0
-icon:
+icon: 
 lapses: 0
 last_review: 20231006025943191
 list: Questions fréquemment posées/excerts
@@ -13,17 +13,17 @@ scheduled_days: 6
 stability: 5.8
 state: 2
 tags: Retour d'information ? .
-title: Questions fréquemment posées
+title: Foire aux questions
 type: text/vnd.tiddlywiki
 
-Quel est le principe du [[plugin Cuttlefish]] ?
+[[Quel est le principe du plugin FSRS4TW ?]]
 
 <<<
-{{Quel est le principe du plugin Cuttlefish?}}
+{{Quel est le principe du plugin FSRS4TW ?}}
 <<<
 
 [[Comment convertir epub en twpub ?]]
 
 <<<
-{{Comment convertir epub en twpub?}}}
+{{Comment convertir epub en twpub ?}}}
 <<<

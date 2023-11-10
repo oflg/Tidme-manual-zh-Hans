@@ -1,0 +1,9 @@
+[
+    {
+        "text": "`<<S>>` La macro `option` `réponse` comporte deux paramètres. \n\n* `option` indique une option, une ligne indique une option. \n\n* `réponse` indique une réponse, soit les lettres A-I ou les chiffres 1-9, et plusieurs chiffres ou lettres sont écrits pour des choix multiples.",
+        "title": "Exemples et instructions pour les questions à choix multiples",
+        "tags": "?",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "Question stem <<S \"\"\"\nOption 1\nOption 2\nOption 3\nOption 4\n\"\"\"AC>>"
+    }
+]

@@ -3,27 +3,27 @@ due: 20230312044455934
 modified: 20231009095432956
 review: 20230310044455934
 tags: Manuel du boudoir ? .
-title: Plugins associés
+title: Plugins apparentés
 type: text/vnd.tiddlywiki
 
 [img[fishing.png]]
 
 Vous pouvez ouvrir {{$:/core/ui/ControlPanel/Plugins/AddPlugins}} dans [[Settings|$:/ControlPanel]]-''Plugins'' et rechercher le nom du plugin dans ''Ink Drawer Plugin Library'' ou ''Chinese Community Plugin Library'' pour installer et mettre à jour le plugin en un seul clic.
 
-[[Ink Drawer Plugin]]
+[[Plugin FSRS4TW]]
 
 <<<
-{{Cuttlefish Plugin}}
+{{Plugin FSRS4TW}}
 <<<
 
-[[Plugin Statistiques]]
+[[Plugin statistiques]]
 
 <<<
-{{Plugin de statistiques}}
+{{Plugin statistiques}}
 <<<
 
 [[Plugin de lecture]]
 
 <<<
-{{Plugins de lecture}}
+{{Plugin de lecture}}
 <<<

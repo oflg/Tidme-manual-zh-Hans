@@ -11,7 +11,7 @@ scheduled_days: 29
 stability: 29.040138112550505
 state: 2
 tags: ?
-title: Manuel du boudoir
+title: Manuel du Tidme
 type: text/vnd.tiddlywiki
 
 [[Bienvenue]]
@@ -29,7 +29,7 @@ type: text/vnd.tiddlywiki
 [[Utilisation]]
 
 <<<
-{{utilisation}}
+{{Utilisation}}
 <<<
 
 * [[Plugins apparentés]]
@@ -40,7 +40,7 @@ type: text/vnd.tiddlywiki
 
 * [[Comment inverser l'affichage des questions et des réponses ?]]
 
-* [[Comment trier un jeu de cartes ?]]
+* [[Comment trier le jeu de cartes ?]]
 
 * [[Conseils avancés]]
 
@@ -49,5 +49,5 @@ type: text/vnd.tiddlywiki
 
 
 
-<<.tip "Ce qui précède explique comment utiliser les fonctions spécifiques du [[Boudoir]], les autres fonctions de base sont les mêmes que celles de [[TiddlyWiki]]." >>
+<<.tip "Ce qui précède explique comment utiliser les fonctions spécifiques du [[Tidme]], les autres fonctions de base sont les mêmes que celles de [[TiddlyWiki]]." >>
 

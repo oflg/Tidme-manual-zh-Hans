@@ -10,18 +10,16 @@ review: 20230310044607798
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: 墨屉手册 ? .
-title: 反馈
+tags: [[Manuel du Tidme]] ? .
+title: Feedback
 type: text/vnd.tiddlywiki
 
-[[常见问题]]
+[[Foire aux questions]]
 
 
 <<<
-{{常见问题}}
+{{Foire aux questions}}
 <<<
 
 
-欢迎[[反馈和建议|https://github.com/oflg/Tidme/issues]]以获得更好的功能。
-
-{{TiddlyWiki公众号.png}}
+N'hésitez pas à [[Commentaires et suggestions|https://github.com/oflg/Tidme/issues]] pour améliorer les fonctionnalités.

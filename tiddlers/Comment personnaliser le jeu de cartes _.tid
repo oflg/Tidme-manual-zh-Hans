@@ -12,13 +12,12 @@ review: 20230310044709739
 scheduled_days: 0
 stability: 0.6
 state: 1
-tags: 高级技巧 ?
-title: 如何自定义牌组？
+tags: [[Conseils avancés]] ?
+title: Comment personnaliser le jeu de cartes ?
 type: text/vnd.tiddlywiki
 
-
-[[创建牌组]]
+[[Créer une terrasse]]
 
 <<<
-{{创建牌组}}
+{{Créer une terrasse}}
 <<<

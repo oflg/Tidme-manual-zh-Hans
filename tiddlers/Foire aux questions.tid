@@ -5,25 +5,25 @@ elapsed_days: 0
 icon: 
 lapses: 0
 last_review: 20231006025943191
-list: 常见问题/摘录
+list: Questions fréquemment posées/excerts
 modified: 20230921091928319
 reps: 1
 review: 20230310044636517
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: 反馈 ? .
-title: 常见问题
+tags: Retour d'information ? .
+title: Foire aux questions
 type: text/vnd.tiddlywiki
 
-[[墨鱼插件的原理是什么？]]
+[[Quel est le principe du plugin FSRS4TW ?]]
 
 <<<
-{{墨鱼插件的原理是什么？}}
+{{Quel est le principe du plugin FSRS4TW ?}}
 <<<
 
-[[怎么把 epub 转为 twpub？]]
+[[Comment convertir epub en twpub ?]]
 
 <<<
-{{怎么把 epub 转为 twpub？}}
+{{Comment convertir epub en twpub ?}}}
 <<<

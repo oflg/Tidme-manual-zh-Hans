@@ -1,0 +1,53 @@
+created: 20211111061057954
+difficulty: 4.93
+due: 20231104024644233
+elapsed_days: 14.80092295138889
+lapses: 0
+last_review: 20231006024644233
+modified: 20231009095301699
+reps: 4
+review: 20230115102358213
+scheduled_days: 29
+stability: 29.040138112550505
+state: 2
+tags: ?
+title: Manuel du Tidme
+type: text/vnd.tiddlywiki
+
+[[Bienvenue]]
+
+<<<
+{{Bienvenue}}
+<<<
+
+[[Installation]]
+
+<<<
+{{Installation}}
+<<<
+
+[[Utilisation]]
+
+<<<
+{{Utilisation}}
+<<<
+
+* [[Plugins apparentés]]
+
+* [[Quels sont les raccourcis ?]]
+
+* [[Comment utiliser les quiz et les questions à compléter ?]]
+
+* [[Comment inverser l'affichage des questions et des réponses ?]]
+
+* [[Comment trier le jeu de cartes ?]]
+
+* [[Conseils avancés]]
+
+* [[Feedback]]
+
+
+
+
+<<.tip "Ce qui précède explique comment utiliser les fonctions spécifiques du [[Tidme]], les autres fonctions de base sont les mêmes que celles de [[TiddlyWiki]]." >>
+

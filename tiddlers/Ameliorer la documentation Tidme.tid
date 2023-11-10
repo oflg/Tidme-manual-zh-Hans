@@ -2,10 +2,10 @@ caption: Amélioration de la documentation TiddlyWiki
 created: 20140820151051019
 modified: 20220402130228487
 tags: Community
-title: Améliorer le document du Boudoir
+title: Améliorer la documentation Tidme
 type: text/vnd.tiddlywiki
 
-Tout le monde peut soumettre des améliorations à la documentation sur Boudoirs sur https://oflg.github.io/Tidme/manual/. (Les améliorations apportées au code central doivent faire l'objet d'un processus plus complexe, car les modifications doivent être testées dans un navigateur et dans un environnement Node.js avant d'être soumises).
+Tout le monde peut soumettre des améliorations à la documentation de ~Tidme sur https://oflg.github.io/Tidme/manual/. (Les améliorations apportées au code central doivent suivre un processus plus complexe, car les modifications doivent être testées à la fois dans un navigateur et dans un environnement Node.js avant d'être validées).
 
 # Si vous n'avez pas encore de compte ~GitHub, créez-en un à https://github.com
 # Sur https://oflg.github.io/Tidme/manual/, cliquez sur "Edit" sur l'entrée que vous souhaitez améliorer

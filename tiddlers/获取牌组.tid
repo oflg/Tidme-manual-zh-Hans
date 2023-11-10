@@ -1,7 +1,7 @@
 created: 20230921002643535
 modified: 20230921070203608
-tags: 如何自定义牌组？ ?
-title: 获取牌组
+tags: Comment personnaliser le jeu ? ?
+title: Obtenir le jeu
 type: text/vnd.tiddlywiki
 
-使用[[共享牌组插件]]直接安装或者在[[讨论|https://github.com/oflg/Tidme/discussions]]中下载牌组文件后导入文件。
+Utilisez le [[Le Deck Plugin]] pour l'installer directement ou téléchargez le fichier du jeu dans [[Discussion|https://github.com/oflg/Tidme/discussions]] et importez le fichier.

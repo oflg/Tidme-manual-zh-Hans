@@ -1,0 +1,29 @@
+created: 20220401142641686
+due: 20230312044455934
+modified: 20231009095432956
+review: 20230310044455934
+tags: [[Manuel du Tidme]] ? .
+title: Plugins apparentés
+type: text/vnd.tiddlywiki
+
+[img[fishing.png]]
+
+Vous pouvez ouvrir {{$:/core/ui/ControlPanel/Plugins/AddPlugins}} dans [[Settings|$:/ControlPanel]]-''Plugins'' et rechercher le nom du plugin dans ''Ink Drawer Plugin Library'' ou ''Chinese Community Plugin Library'' pour installer et mettre à jour le plugin en un seul clic.
+
+[[Plugin FSRS4TW]]
+
+<<<
+{{Plugin FSRS4TW}}
+<<<
+
+[[Plugin statistiques]]
+
+<<<
+{{Plugin statistiques}}
+<<<
+
+[[Plugin de lecture]]
+
+<<<
+{{Plugin de lecture}}
+<<<

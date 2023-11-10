@@ -10,14 +10,14 @@ review: 20230310044628983
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: 常见问题 ? .
-title: 墨鱼插件的原理是什么？
+tags: Questions fréquemment posées ? .
+title: Quel est le principe du plugin FSRS4TW ?
 type: text/vnd.tiddlywiki
 
 
 
-[[墨鱼插件的数据的储存在哪？]]
+[[Où sont stockées les données du plugin FSRS4TW ?]]
 
 <<<
-{{墨鱼插件的数据的储存在哪？}}
+{{Où sont stockées les données du plugin FSRS4TW ?}}
 <<<

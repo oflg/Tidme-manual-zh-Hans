@@ -1,0 +1,27 @@
+created: 20131129092604900
+delivery: Saver
+description: Une technique quelque peu maladroite mais commune à presque tous les navigateurs
+difficulty: 5.869999999999999
+due: 20231014053801397
+elapsed_days: 7.109954594907407
+lapses: 0
+last_review: 20231013053801397
+method: save
+modified: 20230921092119233
+reps: 2
+scheduled_days: 1
+stability: 0.6
+state: 2
+tags: ?
+title: Installation
+type: text/vnd.tiddlywiki
+
+# Cliquez pour télécharger le Boudoir :
+#> {{$:/editions/download-empty-button}}
+# Cliquez sur le fichier du boudoir que vous venez de télécharger et ouvrez-le dans votre navigateur.
+# Une fois ouvert, essayez de créer une nouvelle entrée en cliquant sur le bouton <<.icon $:/core/images/new-button>> ''Ajouter'' dans la barre latérale. Entrez quelque chose pour cette entrée et cliquez sur le bouton <<.icon $:/core/images/done-button>> ''OK''
+# Enregistrez vos modifications en cliquant sur le bouton <<.icon $:/core/images/save-button>> ''Enregistrer les modifications'' dans la barre latérale.
+# ''Votre navigateur va télécharger une copie du boudoir mis à jour''.
+# La prochaine fois que vous l'utiliserez, vous pourrez ouvrir le dernier boudoir ou une autre version de sauvegarde dans votre navigateur.
+
+''Astuce'' : La plupart des navigateurs ont une option configurable ''Me demander où je veux télécharger à chaque fois'', qui vous permet de sélectionner un fichier existant du boudoir et de l'écraser à la place.

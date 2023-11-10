@@ -1,0 +1,27 @@
+created: 20211111054019363
+difficulty: 8.494
+due: 20231007080056163
+elapsed_days: 1.2168620717592593
+lapses: 2
+last_review: 20231007075556163
+modified: 20231007130122879
+reps: 4
+review: 20230310044604301
+scheduled_days: 0
+stability: 0.32639767020590527
+state: 3
+tags: [[Manuel du Tidme]] ?
+title: Utilisation
+type: text/vnd.tiddlywiki
+
+# Cliquez sur {{$:/plugins/tidme/fsrs4tw/home}} dans la barre latérale pour sélectionner un jeu.
+
+#* [[Default Deck|$:/Deck/default]] contient les cartes qui ont eu les balises ` ? `, qui peuvent être personnalisées par ''{{$:/language/tidme/createdeck}}''.
+
+# Cliquez sur ''{{$:/language/tidme/startstudy}}''.
+
+#* Toutes les cartes du jeu passent à l'état d'étude en attente et sautent à la première carte qui doit être étudiée.
+#* La carte sur laquelle on a sauté sera généralement réduite pour ne montrer que les questions (vous pouvez configurer des cartes spécifiques pour qu'elles ne soient pas réduites).
+#* Rappelez la réponse en fonction de la question de la carte, puis cliquez sur <<.icon $:/core/images/unfold-button>> dans la carte pour la développer et l'évaluer.
+
+# Cliquez sur ''{{$:/language/tidme/stopstudy}}''.

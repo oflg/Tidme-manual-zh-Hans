@@ -1,0 +1,30 @@
+created: 20211111054354485
+creator: oflg
+difficulty: 3.9994
+due: 20231116025916747
+elapsed_days: 16.499536238425925
+grade: 1
+lapses: 0
+last_review: 20231006025916747
+modified: 20231007081734438
+modifier: oflg
+reps: 2
+retrievability: 1
+review: 20220419125315807
+scheduled_days: 41
+stability: 41.47572592456828
+state: 2
+tags: [[Conseils avancés]] ?
+title: Comment utiliser les quiz et les questions à compléter ?
+type: text/vnd.tiddlywiki
+
+Ajouter un champ `caption` à la carte, le contenu de ce champ est le recto de la carte.
+
+| Questions | Instructions pour écrire le contenu du champ `caption` |>| Macros générées par les boutons | Exemples et instructions |h
+|~|~| Nom | Structure |~|h
+| Questions et réponses | - | - | - | [[Exemples de questions et réponses et d'explications]] |
+| Questions dactylographiques | Écrire le texte + l'insérer dans l'éditeur avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/type>> sur le champ d'édition | T | ` <<T field>>` | [[Exemples de questions dactylographiques et instructions]] |
+| Remplir les blancs | Écrire la tige + mettre le texte sélectionné en ''gouge'' avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> dans la barre d'édition | C | `<<C hide show id>>` | [[Exemples et instructions pour remplir les blancs]] |
+| Questions de sélection | Écrire le texte + utiliser le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> sur la barre d'édition pour mettre le texte sélectionné en ''option'' + remplir la réponse ''nombre ordinal'' | S |  `<<S option answer>>` | [[Exemples et instructions pour les questions à choix multiples]] |
+
+Vous pouvez écrire vos propres macros manuellement si nécessaire, ou obtenir et partager des macros dans [[Discussion|https://github.com/oflg/Tidme/discussions]].

@@ -1,0 +1,18 @@
+created: 20230920141947382
+difficulty: 5.869999999999999
+due: 20231010082724889
+elapsed_days: 2.2276372800925928
+lapses: 0
+last_review: 20231008082724889
+modified: 20231008054959578
+reps: 2
+scheduled_days: 2
+stability: 0.6
+state: 2
+tags: Techniques avancées ?
+title: Comment trier le jeu de cartes ?
+type: text/vnd.tiddlywiki
+
+Il suffit d'effectuer un glisser-déposer pour effectuer un tri dans la liste des jeux. Lorsqu'une carte appartient à plus d'un jeu étudié, le paramètre du jeu précédent est utilisé en premier.
+
+* Lorsque vous apprenez, le haut de la carte indique le jeu auquel elle appartient.

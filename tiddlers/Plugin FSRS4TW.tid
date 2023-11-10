@@ -1,0 +1,19 @@
+created: 20211111053940936
+difficulty: 3.9899999999999998
+due: 20231012025930853
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025930853
+modified: 20230920143023792
+reps: 1
+review: 20230310044656072
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: Plugin Cuttlefish ? .
+title: Plugin FSRS4TW
+type: text/vnd.tiddlywiki
+
+Le plugin de base pour Ink Drawer.
+
+Utilisez l'algorithme [[FSRS Free Spaced Repeat Scheduling|https://zhuanlan.zhihu.com/p/454932406]], qui supplante théoriquement la capture d'Anki ~SuperMemo, pour [[Spaced Repeat|https://www.zhihu.com/topic/21338969/hot]]] dans TiddlyWiki.

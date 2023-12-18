@@ -1,12 +1,12 @@
-caption: Remplir la question <<C blank>> <<C show ? 1>>exemple et <<C dire x 1>>explication
+caption: Exemples et <<C instructions >>pour <<C remplir 1 ?>> les <<C blancs 1 x>>
 tags: ?
 title: Exemples et instructions pour remplir les blancs
 type: text/vnd.tiddlywiki
 
-La macro `<C>>` prend trois arguments `hide` `show` `id`, les deux derniers pouvant être omis.
+La macro `<<C>>` prend trois arguments `hide` `id` `show`, les deux derniers pouvant être omis.
 
 * `hide` indique le contenu de la gouge.
 
-* `show` indique le texte qui est affiché après le gouge, qui est par défaut `...`.
+* `id` indique l'id du vide, les vides avec le même id seront affichés et cachés en même temps lorsqu'ils sont cliqués.
 
-* `hide` indique l'id du vide, les vides avec le même id seront affichés et cachés en même temps lorsqu'ils sont cliqués.
+* `show` indique le texte qui est affiché après le gouge, qui est par défaut `...`.

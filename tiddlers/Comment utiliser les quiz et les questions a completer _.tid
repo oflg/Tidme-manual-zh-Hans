@@ -24,7 +24,7 @@ Ajouter un champ `caption` à la carte, le contenu de ce champ est le recto de l
 |~|~| Nom | Structure |~|h
 | Questions et réponses | - | - | - | [[Exemples de questions et réponses et d'explications]] |
 | Questions dactylographiques | Écrire le texte + l'insérer dans l'éditeur avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/type>> sur le champ d'édition | T | ` <<T field>>` | [[Exemples de questions dactylographiques et instructions]] |
-| Remplir les blancs | Écrire la tige + mettre le texte sélectionné en ''gouge'' avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> dans la barre d'édition | C | `<<C hide show id>>` | [[Exemples et instructions pour remplir les blancs]] |
+| Remplir les blancs | Écrire la tige + mettre le texte sélectionné en ''gouge'' avec le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> dans la barre d'édition | C | `<<C hide id show>>` | [[Exemples et instructions pour remplir les blancs]] |
 | Questions de sélection | Écrire le texte + utiliser le bouton <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> sur la barre d'édition pour mettre le texte sélectionné en ''option'' + remplir la réponse ''nombre ordinal'' | S |  `<<S option answer>>` | [[Exemples et instructions pour les questions à choix multiples]] |
 
 Vous pouvez écrire vos propres macros manuellement si nécessaire, ou obtenir et partager des macros dans [[Discussion|https://github.com/oflg/Tidme/discussions]].

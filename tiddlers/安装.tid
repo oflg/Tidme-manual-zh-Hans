@@ -16,6 +16,10 @@ tags: ?
 title: 安装
 type: text/vnd.tiddlywiki
 
+最简单的方法是在 [[Tiddlyhost 中克隆 Tidme|https://tiddlyhost.com/sites/new?clone=tidme]]。
+
+也可以在本地安装：
+
 # 点击下载墨屉：
 #> {{$:/editions/download-empty-button}}
 # 点击刚才下载的墨屉文件，在浏览器中打开

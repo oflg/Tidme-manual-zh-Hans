@@ -16,6 +16,10 @@ tags: ?
 title: Installation
 type: text/vnd.tiddlywiki
 
+Le moyen le plus simple est de [[cloner Tidme dans Tiddlyhost|https://tiddlyhost.com/sites/new?clone=tidme-fr-fr]].
+
+Vous pouvez également l'installer localement :
+
 # Cliquez pour télécharger le Boudoir :
 #> {{$:/editions/download-empty-button}}
 # Cliquez sur le fichier du boudoir que vous venez de télécharger et ouvrez-le dans votre navigateur.
